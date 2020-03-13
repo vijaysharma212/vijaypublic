@@ -1,2 +1,2 @@
 ###
-echo "hello new world";
+echo "hello world";
